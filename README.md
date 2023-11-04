@@ -22,7 +22,8 @@ The new YOLO-NAS delivers state-of-the-art performance with the unparalleled acc
 <img src="https://github.com/FieryDeveloper/Traffic-Sign-Sensing/blob/main/yolo_nas_frontier.png" width="400px">
 </div
 
-<details open><summary>Detection of Road Signs Results)</summary>
+<details open>## <div align="center">Results</div>
+
 
 
 | Model                                                                                | Precision | Recall | mAP50 | mAP50-95 |
