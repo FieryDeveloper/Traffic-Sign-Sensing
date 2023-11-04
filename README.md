@@ -6,8 +6,3 @@ The "Traffic Sign Sensing Using Object Detection with YOLOv8 and NAS-YOLO" proje
   <img src="logo.svg" width="400" alt="Traffic Sign Sensing Logo" />
 </div>
 
-<style>
-  div {
-    text-align: center;
-  }
-</style>
