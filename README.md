@@ -13,7 +13,14 @@ YOLOv8 [Detect](https://docs.ultralytics.com/tasks/detect), [Segment](https://do
 
 <img width="1024" src="https://raw.githubusercontent.com/ultralytics/assets/main/im/banner-tasks.png" alt="Ultralytics YOLO supported tasks">
 
-<details open><summary>Detection (Road Signs)</summary>
+
+
+
+The new YOLO-NAS delivers state-of-the-art performance with the unparalleled accuracy-speed performance, outperforming other models such as YOLOv5, YOLOv6, YOLOv7 and YOLOv8.
+
+
+
+<details open><summary>Detection of Road Signs Results)</summary>
 
 
 | Model                                                                                | Precision | Recall | mAP50 | mAP50-95 |
@@ -25,9 +32,6 @@ YOLOv8 [Detect](https://docs.ultralytics.com/tasks/detect), [Segment](https://do
 | [YOLOv8x](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8x.pt) | 93                     | 91.6                 | 91.9                           | 76.2                               |                | 
 | [YOLONAS-l](https://github.com/Deci-AI/super-gradients/tree/master)                  | NA                     | 97.5                 | 95.7                           | NA                                 |                
 
-- **mAP<sup>val</sup>** values are for single-model single-scale on [COCO val2017](http://cocodataset.org) dataset.
-  <br>Reproduce by `yolo val detect data=coco.yaml device=0`
-- **Speed** averaged over COCO val images using an [Amazon EC2 P4d](https://aws.amazon.com/ec2/instance-types/p4/) instance.
-  <br>Reproduce by `yolo val detect data=coco.yaml batch=1 device=0|cpu`
 
 </details>
+
