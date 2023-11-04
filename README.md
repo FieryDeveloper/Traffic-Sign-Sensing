@@ -27,7 +27,7 @@ This paper's contributions are:
 ## Software Development Life Cycle
 
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdistantjob.com%2Fblog%2Fagile-software-development-life-cycle%2F&psig=AOvVaw17e3zbVk0v4wt_KZSCzVxX&ust=1699178982398000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi545SNqoIDFQAAAAAdAAAAABAb" width="400px">
+<img src="https://github.com/FieryDeveloper/Traffic-Sign-Sensing/blob/main/agilemodel.png" width="400px">
 </div>
 
 
