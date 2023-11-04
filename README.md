@@ -17,13 +17,13 @@ YOLOv8 [Detect](https://docs.ultralytics.com/tasks/detect), [Segment](https://do
 
 
 | Model                                                                                | Precision | Recall | mAP50 | mAP50-95 |
-| ------------------------------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------ | ----------------------------------- | ------------------ | ----------------- |
-| [YOLOv8n](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt) | 97.9                   | 92.8                 | 95.3                           | 82.2                                |                 | 
-| [YOLOv8s](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8s.pt) | 98.3                   | 92                 | 94.9                          | 80.6                                |                |
-| [YOLOv8m](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8m.pt) | 91.8                   | 91.4                 | 94.3                          | 79                                |                |
-| [YOLOv8l](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8l.pt) | 95.9                   | 87.9                 | 92                          | 76.6                                |                | 
-| [YOLOv8x](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8x.pt) | 93                   | 91.6                 | 91.9                          | 76.2                                |                | 
-| [YOLONAS-l](https://github.com/Deci-AI/super-gradients/tree/master) | NA                   | 97.5                 | 95.7                          | NA                                |                
+| ------------------------------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------ | ----------------------------------- |
+| [YOLOv8n](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt) | 97.9                   | 92.8                 | 95.3                           | 82.2                               |                 | 
+| [YOLOv8s](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8s.pt) | 98.3                   | 92                   | 94.9                           | 80.6                               |                |
+| [YOLOv8m](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8m.pt) | 91.8                   | 91.4                 | 94.3                           | 79                                 |                |
+| [YOLOv8l](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8l.pt) | 95.9                   | 87.9                 | 92                             | 76.6                               |                | 
+| [YOLOv8x](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8x.pt) | 93                     | 91.6                 | 91.9                           | 76.2                               |                | 
+| [YOLONAS-l](https://github.com/Deci-AI/super-gradients/tree/master)                  | NA                     | 97.5                 | 95.7                           | NA                                 |                
 
 - **mAP<sup>val</sup>** values are for single-model single-scale on [COCO val2017](http://cocodataset.org) dataset.
   <br>Reproduce by `yolo val detect data=coco.yaml device=0`
