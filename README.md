@@ -22,7 +22,7 @@ The new YOLO-NAS delivers state-of-the-art performance with the unparalleled acc
 <img src="https://github.com/FieryDeveloper/Traffic-Sign-Sensing/blob/main/yolo_nas_frontier.png" width="400px">
 </div
 
-<details open>## <div align="center">Results</div>
+## <div align="center">Results</div>
 
 
 
@@ -36,5 +36,4 @@ The new YOLO-NAS delivers state-of-the-art performance with the unparalleled acc
 | [YOLONAS-l](https://github.com/Deci-AI/super-gradients/tree/master)                  | NA                     | 97.5                 | 95.7                           | NA                                 |                
 
 
-</details>
 
