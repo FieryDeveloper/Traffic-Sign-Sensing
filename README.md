@@ -22,12 +22,6 @@ The new YOLO-NAS delivers state-of-the-art performance with the unparalleled acc
 <img src="https://github.com/FieryDeveloper/Traffic-Sign-Sensing/blob/main/yolo_nas_frontier.png" width="400px">
 </div>
 
-## Basic Visualization of Results
-
-<div align="center">
-<img src="https://github.com/FieryDeveloper/Traffic-Sign-Sensing/blob/main/yolo_nas_frontier.png" width="400px">
-</div>
-
 
 
 ## <div align="center">Results</div>
