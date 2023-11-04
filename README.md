@@ -24,6 +24,23 @@ This paper's contributions are:
 3) The paper has implemented a total of 6 object-detection models to achieve the best possible results. 
 4) The main goal of this paper is to introduce the importance of high-precision applications of object detection in road safety. Decreasing accidents on the root level and thus increasing the safety of citizens is the underlying purpose of this paper.
 
+## Software Development Life Cycle
+
+<div align="center">
+<img src="https://github.com/FieryDeveloper/Traffic-Sign-Sensing/blob/main/yolo_nas_frontier.png" width="400px">
+</div>
+
+
+The Agile model is well-suited for a research project on object detection, particularly for the following reasons:
+•	Flexibility: Research projects often involve a high degree of uncertainty and changing requirements as you explore new ideas, datasets, and methodologies. Agile allows you to adapt to these changes quickly, making it an ideal choice when the specifics of your research topic are not yet fully defined.
+•	Iterative Development: Agile encourages an iterative approach, where you can continuously refine your models, datasets, and research questions. This aligns well with the iterative nature of research, where hypotheses are tested, and new insights lead to adjustments in your approach.
+•	Continuous Feedback: Agile methodologies emphasize regular communication and feedback within the research team. This is crucial for discussing experimental results, making data-driven decisions, and ensuring everyone is aligned with the research goals.
+•	Incremental Progress: Research projects can be long and complex. Agile breaks down the project into smaller, manageable tasks or iterations. This allows you
+ 
+to track progress and achieve tangible results at regular intervals, which can boost motivation and maintain momentum.
+•	Risk Mitigation: Agile includes practices like risk assessment and mitigation. In research, where the outcome is uncertain, identifying and addressing potential risks early is essential. Agile's focus on adaptability and risk management can help you navigate challenges effectively.
+•	Collaboration: Agile promotes collaboration among team members, including researchers, developers, and domain experts. This collaborative approach can enhance the quality of research, as different perspectives can lead to more innovative solutions.
+
 ## <div align="center">Models</div>
 
 YOLOv8 [Detect](https://docs.ultralytics.com/tasks/detect), [Segment](https://docs.ultralytics.com/tasks/segment) and [Pose](https://docs.ultralytics.com/tasks/pose) models pretrained on the [COCO](https://docs.ultralytics.com/datasets/detect/coco) dataset are available here, as well as YOLOv8 [Classify](https://docs.ultralytics.com/tasks/classify) models pretrained on the [ImageNet](https://docs.ultralytics.com/datasets/classify/imagenet) dataset. [Track](https://docs.ultralytics.com/modes/track) mode is available for all Detect, Segment and Pose models.
