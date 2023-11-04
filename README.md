@@ -27,7 +27,7 @@ This paper's contributions are:
 ## Software Development Life Cycle
 
 <div align="center">
-<img src="https://github.com/FieryDeveloper/Traffic-Sign-Sensing/blob/main/yolo_nas_frontier.png" width="400px">
+<img src="https://github.com/FieryDeveloper/Traffic-Sign-Sensing/blob/main/Agile.png" width="400px">
 </div>
 
 
