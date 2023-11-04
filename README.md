@@ -7,6 +7,23 @@ The "Traffic Sign Sensing Using Object Detection with YOLOv8 and NAS-YOLO" proje
 </div>
 
 
+## Motivation 
+Traffic signs are of paramount importance in the realm of road transportation. These signs are instrumental in upholding safety and efficiency on our roadways. One of their primary functions is to communicate vital information and regulations, regardless of language barriers, thus ensuring the safety of all road users.
+Traffic signs give drivers directions, assisting them in navigating new roads and selecting the best course of travel. Along with providing directions to hospitals, rest stops, petrol stations, and other locations, they also act as informational beacons. Drivers can avoid potential dangers including crossings, curves, and construction zones by paying attention to warning signs.
+
+The primary aim is to harness object detection technology for the critical objective of accident prevention, with a specific emphasis on the application of this technology to traffic signs. The overarching goal of this study is to design, develop, and assess an intelligent system capable of real-time detection and analysis of traffic signs, ultimately leading to a substantial reduction in road accidents and an enhancement of overall road safety.
+
+A fundamental computer vision approach called object detection involves discovering and recognising things of interest in digital pictures or video frames. It is essential to many industries, including industrial automation, driverless vehicles, surveillance systems, and medical imaging. Object detection's main objective is to educate computers to witness and identify objects so they can interpret and react to the visual world much like humans do.
+Object detection has made great improvements in accuracy and efficiency thanks to developments in deep learning and the accessibility of big datasets, becoming a core technology in a variety of fields and applications. In the fields of computer vision and artificial intelligence, it continues to inspire innovation and open up new opportunities due to its development potential.
+The absence of thorough and easily accessible object detection systems in the context of driving safety emphasises how crucial it is to create and execute such programs. Despite substantial developments in object detection technology, there is still a glaring gap in its general usage for promoting road safety. This gap is especially noticeable in autonomous vehicles, where the lack of widely available, highly accurate object-detecting technologies presents a significant obstacle to the development of fully automated and secure transportation. Furthermore, the lack of effective object identification technology hinders efforts to improve traffic management, accident avoidance, and pedestrian safety in the larger transportation sector. 
+This paper uses a dataset that is full of potential and could serve as a basis for showcasing the deployment of road safety applications with high precision and standards.
+% Here we can write a summary of our research work
+This paper's contributions are:
+1) The authors have proposed an object detection approach for identifying different types of traffic signs for safety purposes. Comparison between numerous models like YOLO-NAS-l,YOLOv8x,YOLOv8n,YOLOv8s,YOLOv8l and YOLOv8m.
+2) The techniques have been applied to four different classes of traffic signs namely traffic lights, Stop signs, Speed Limit signs and crosswalk signs. These signs are essential in order to increase the safety of pedestrians as well as drivers.
+3) The paper has implemented a total of 6 object-detection models to achieve the best possible results. 
+4) The main goal of this paper is to introduce the importance of high-precision applications of object detection in road safety. Decreasing accidents on the root level and thus increasing the safety of citizens is the underlying purpose of this paper.
+
 ## <div align="center">Models</div>
 
 YOLOv8 [Detect](https://docs.ultralytics.com/tasks/detect), [Segment](https://docs.ultralytics.com/tasks/segment) and [Pose](https://docs.ultralytics.com/tasks/pose) models pretrained on the [COCO](https://docs.ultralytics.com/datasets/detect/coco) dataset are available here, as well as YOLOv8 [Classify](https://docs.ultralytics.com/tasks/classify) models pretrained on the [ImageNet](https://docs.ultralytics.com/datasets/classify/imagenet) dataset. [Track](https://docs.ultralytics.com/modes/track) mode is available for all Detect, Segment and Pose models.
